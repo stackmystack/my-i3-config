@@ -24,7 +24,7 @@ $ mv /tmp/i3-old ~/.config/i3
 
 ## References
 
-These are some i3 config files I referenced to when I made mine
+These are some i3 config files I referenced to when I made mine.
 
 - [https://gist.github.com/chomik/b90ba24d663a00947aef70d4138b0007](https://gist.github.com/chomik/b90ba24d663a00947aef70d4138b0007)
 - [https://github.com/maitesin/dot-files/blob/master/i3wm/config](https://github.com/maitesin/dot-files/blob/master/i3wm/config)
